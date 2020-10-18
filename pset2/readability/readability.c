@@ -1,3 +1,6 @@
+//CS50 Problem Set 2 (edx 2020): Readability
+//Author: @dan_marius
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>

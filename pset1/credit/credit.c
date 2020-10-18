@@ -1,3 +1,6 @@
+//CS50 Problem Set 1 (edx 2020): Credit (more comfortable)
+//Author: @dan_marius
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

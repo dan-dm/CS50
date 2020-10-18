@@ -1,3 +1,6 @@
+//CS50 Problem Set 1 (edx 2020): Mario (more comfortable)
+//Author: @dan_marius
+
 #include <stdio.h>
 #include <cs50.h>
 
@@ -36,7 +39,7 @@ int main(void)
 
         //print spaces between piramids
         printf("  ");
-        
+
         //print right piramid hashes
         for (int j = 0; j < hashesRight; j++)
         {
